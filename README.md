@@ -21,5 +21,7 @@ https://github.com/11florin/Typography-Blog-Post.git
 
 Open index.html in your browser to view the page.
 
-License
-This project is open source and available under the MIT License.
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
